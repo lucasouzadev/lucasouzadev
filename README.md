@@ -5,10 +5,60 @@
 
 🌱 Atualmente estou cursando Full Stack com foco no Java!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ &nbsp;
+
+<div 
+ align="center" style="margin-bottom:100px">
+ <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=lucasouzadev&show_icons=true&bg_color=00000000" />
+ 
+ <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lucasouzadev&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
+
+## Minhas habilidades/My Skills
+
+#### Foco principal/Main Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Foco secundario/Secondary Stack:
+
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+
+#### Estudos/Studying in this moment:
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=MySql&logoColor=white)&nbsp;
+
+#### Ferramentas de trabalho/Workstation Tools:
+
+![VScode](https://img.shields.io/badge/VScode-4285F4?style=for-the-badge&logo=VScode&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/WINDOWS-E95420?style=for-the-badge&logo=WINDOWS&logoColor=white)&nbsp;
+
+&nbsp;
+
+## Contato/Contacts:
+
+<div> 
+<a href="https://www.instagram.com/lucasouza.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:lucasouza1975@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/lucas-souza-09401a301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+</a> 
 </div>
+
+&nbsp;&nbsp;
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
