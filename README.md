@@ -18,7 +18,7 @@ Armazenamento, versionamento e compartilhamento de músicas em desenvolvimento. 
 
 **Tecnologias:** React, TypeScript, Capacitor e Go. **Código atual privado.**
 
-[Conhecer o Dialetto](https://dialetto.club) · [Base pública (fork)](https://github.com/lucasouzadev/vault-dialetto) · [Builds e testes](https://github.com/lucasouzadev/dialetto-builds)
+[dialetto.club](https://dialetto.club) · [Base pública (fork)](https://github.com/lucasouzadev/vault-dialetto) · [Builds e testes](https://github.com/lucasouzadev/dialetto-builds)
 
 ### Monologue
 
@@ -26,7 +26,7 @@ Aplicativo de notas em formato de conversa: um lugar para registrar pensamentos,
 
 **Tecnologias:** React Native, Expo, TypeScript e SQLite. **Código privado.**
 
-[Builds e testes](https://github.com/lucasouzadev/monologue-builds)
+[monologo.club](https://monologo.club) · [Builds e testes](https://github.com/lucasouzadev/monologue-builds)
 
 ### Ajudaê
 
